@@ -1,7 +1,7 @@
 {
   "name": "fakebook",
   "version": "0.1.0",
-  "homepage":"http://deshithakavindu.github.io/fakebook",
+  "homepage": "http://deshithakavindu.github.io/fakebook",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.0",
@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy" : "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
